@@ -2,6 +2,10 @@
 
 **Create stunning app previews and screenshots in minutes, not hours.**
 
+[Website](https://previewly.app) • [Issues](https://github.com/mdfalcon104/previewly.app/issues) • [Email](mailto:support@previewly.app)
+
+---
+
 From a single responsive design, generate professional app store ready screenshots for every language, device, and platform. Save hours of work and focus on growing your app with confidence.
 
 ---
@@ -111,6 +115,12 @@ We appreciate your feedback and contributions to making Previewly.app better!
 
 ---
 
+## 🌐 Website
+
+Visit us at: **[https://previewly.app](https://previewly.app)**
+
+---
+
 ## 📄 License
 
 [Add your license information here]
@@ -126,7 +136,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact & Support
 
 For questions, support, or feedback:
-- Email: [your-email@previewly.app]
+- Website: [https://previewly.app](https://previewly.app)
+- Email: [support@previewly.app](mailto:support@previewly.app)
 - Issues: [GitHub Issues](https://github.com/mdfalcon104/previewly.app/issues)
 
 ---
